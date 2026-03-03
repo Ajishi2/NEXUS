@@ -24,17 +24,17 @@ export default function AnalyzerPage() {
         {/* Info Cards */}
         <div className="max-w-4xl mx-auto grid md:grid-cols-3 gap-6 mt-16">
           <div className="bg-white/5 border border-white/20 rounded-lg p-6">
-            <div className="text-3xl mb-3">🎯</div>
+            
             <h3 className="text-white font-bold mb-2">ATS Optimization</h3>
             <p className="text-white/60 text-sm">Get your ATS score and find out how resume-friendly your document is</p>
           </div>
           <div className="bg-white/5 border border-white/20 rounded-lg p-6">
-            <div className="text-3xl mb-3">💼</div>
+           
             <h3 className="text-white font-bold mb-2">Job Matching</h3>
             <p className="text-white/60 text-sm">Compare your resume against job descriptions for specific role alignment</p>
           </div>
           <div className="bg-white/5 border border-white/20 rounded-lg p-6">
-            <div className="text-3xl mb-3">📊</div>
+            
             <h3 className="text-white font-bold mb-2">Detailed Analysis</h3>
             <p className="text-white/60 text-sm">Get actionable insights and recommendations to improve your resume</p>
           </div>
